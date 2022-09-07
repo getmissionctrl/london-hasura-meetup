@@ -12,6 +12,8 @@ Code: https://github.com/getmissionctrl/hasrua-workshop-n8n
 
 Railway: https://hasura-workshop-n8n.up.railway.app/workflow
 
+Railway Project: https://railway.app/project/d4e47f4e-8fa6-4779-9c0e-90d0bf7609ac
+
 ### Hasura
 
 Console: https://cloud.hasura.io/project/a8fb35d0-ea09-4b4f-9338-cc5c8bc75a90/console
